@@ -1,0 +1,4789 @@
+House_type,Bedrooms,Bathrooms,Toilets,Parking Spaces,Location,Price/annum
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
+terraced duplex,3,3,4,2,Orchid,4700000
+terraced duplex,3,3,4,2,Osapa,4000000
+detached duplex,5,5,5,4,Chevron,7000000
+terraced duplex,4,4,5,3,Ikota,4000000
+semi-detached duplex,4,4,4,,Lekki,4500000
+terraced duplex,4,4,4,,Lekki,4500000
+semi-detached duplex,4,4,4,,Orchid,3000000
+house,1,1,2,,Ikate,8000000
+detached duplex,3,3,4,3,Orchid,4000000
+semi-detached duplex,5,5,6,3,Osapa,6500000
+semi-detached duplex,4,4,5,6,Lekki Phase 1,12000000
+detached duplex,5,5,6,3,Chevron,10000000
+terraced duplex,4,4,5,3,Ikate,10000000
+terraced duplex,4,4,5,2,Ikota,4500000
+semi-detached duplex,4,4,5,,Ikota,5000000
+terraced duplex,4,4,5,3,Lekki,5000000
+house,2,2,3,,Lekki,3500000
+house,2,2,3,2,Ikate,4000000
+semi-detached duplex,4,4,5,,Orchid,7000000
+terraced duplex,3,3,3,2,Ikota,3500000
+terraced duplex,3,3,4,2,Ikota,3500000
